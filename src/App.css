@@ -1,0 +1,13 @@
+.btn.btn-link:not(.btn-default):not(.btn-destructive):not(:hover) {
+  text-decoration: none;
+}
+
+.interview-inputs {
+  display: inline-grid;
+  padding-left: 2rem;
+}
+
+.location-action-buttons {
+  display: flex;
+  margin-top: 2rem;
+}
